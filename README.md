@@ -4,3 +4,6 @@
 **原数据库来源于该项目[mysql-country-list](https://github.com/raramuridesign/mysql-country-list)**
 
 使用百度翻译开放API翻译。
+
+### 数据库部分内容截图
+![](./data.jpg)
